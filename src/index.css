@@ -14,3 +14,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.modal{
+  background-color: black;
+  background-color: rgba(0,0,0,0.4);
+}

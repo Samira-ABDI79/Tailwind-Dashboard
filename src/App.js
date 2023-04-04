@@ -2,7 +2,7 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Layout from "./Layout/Layout";
 import ScrollToTop from "./ScrollToTop/ScrollToTop"
-import {Home , Users} from "./Pages"
+import {Home , Users ,Comments} from "./Pages"
 function App() {
 	return (
 		<>
@@ -14,7 +14,9 @@ function App() {
 						<Route element={<Layout />}>
 						
 <Route path='/' element={<Home />} />
-<Route path='/' element={<Users />} />
+<Route path='/users' element={<Users />} />
+<Route path='/comments' element={<Comments />} />
+
 
           </Route>
 

@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "username": "SamiraAbdi",
+      "useremail": "samiraabdiurmia@gimail.com2",
+      "text": "hello world"
+    },
+    {
+      "id": 3,
+      "username": "SamiraAbdi3",
+      "useremail": "samiraabdiurmia@gimail.com2",
+      "text": "hello world66"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Neil Sims",
+      "email": "neil.sims@flowbite.com",
+      "phone": "090146312415"
+    },
+    {
+      "name": "Samira2",
+      "email": "samiraabdiurmia@gimail.com2",
+      "phone": "2452",
+      "id": 3
+    },
+    {
+      "name": "ali2",
+      "email": "a2@gmail.com",
+      "phone": "2452",
+      "id": 4
+    },
+    {
+      "name": "maryam2",
+      "email": "maryam2@gmail.com",
+      "phone": "245",
+      "id": 5
+    },
+    {
+      "name": "mahbanoo",
+      "email": "samiraabdiurmia@gimail.com",
+      "phone": "245",
+      "id": 6
+    },
+    {
+      "name": "arman",
+      "email": "mohammadnzr80@gmail.com",
+      "phone": "2452",
+      "id": 7
+    },
+    {
+      "name": "mehraban",
+      "email": "mohammadnzr80@gmail",
+      "phone": "245",
+      "id": 8
+    },
+    {
+      "name": "maryamBehzad",
+      "email": "maryamBehzad@gmail.com",
+      "phone": "0903",
+      "id": 9
+    }
+  ]
+}

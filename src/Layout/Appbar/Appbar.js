@@ -13,12 +13,12 @@ export const Appbar=()=>{
 
    <li className="flex items-center mb-4">
        <span><User /></span> 
-    <span className="ml-2 capitalize"> <Link  to="/user"> users</Link>  </span> </li>
+    <span className="ml-2 capitalize"> <Link  to="/users"> users</Link>  </span> </li>
 
 
        <li className="flex items-center mb-4">
        <span><User /></span> 
-    <span className="ml-2 capitalize"> <Link  to="/user"> users</Link>  </span> </li>
+    <span className="ml-2 capitalize"> <Link  to="/comments"> Comments</Link>  </span> </li>
 
 
        <li className="flex items-center mb-4">
