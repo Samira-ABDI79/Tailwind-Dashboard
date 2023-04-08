@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
+ 
   "comments": [
     {
       "id": 1,
@@ -69,5 +63,32 @@
       "phone": "0903",
       "id": 9
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "username": "SamiraAbdi",
+      "useremail": "samiraabdiurmia@gimail.com2",
+      "text": "hello world"
+    },
+    {
+      "id": 3,
+      "username": "SamiraAbdi3",
+      "useremail": "samiraabdiurmia@gimail.com2",
+      "text": "hello world3"
+    },{
+      "id": 4,
+      "username": "SamiraAbdi4",
+      "useremail": "samiraabdiurmia@gimail.com2",
+      "text": "hello world4"
+    },
+    {
+      "id": 5,
+      "username": "SamiraAbdi5",
+      "useremail": "samiraabdiurmia@gimail.com2",
+      "text": "hello world5"
+    }
   ]
 }
+
+
