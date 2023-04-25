@@ -1,8 +1,6 @@
-import * as React from 'react';
+import * as React from "react";
 const SvgUser = (props) => (
   <svg
-    style={{width:"1.5rem"}}
-
     className="user_svg__h-8 user_svg__w-8 user_svg__text-red-500"
     fill="none"
     viewBox="0 0 24 24"

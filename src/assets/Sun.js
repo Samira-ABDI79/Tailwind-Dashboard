@@ -1,8 +1,7 @@
-import * as React from 'react';
+import * as React from "react";
 const SvgSun = (props) => (
   <svg
     className="sun_svg__h-8 sun_svg__w-8 sun_svg__text-red-500"
-    style={{width:"1.5rem"}}
     viewBox="0 0 24 24"
     fill="none"
     stroke="currentColor"

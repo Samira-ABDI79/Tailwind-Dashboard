@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
-import User from "../../assets/User"
-import Sun from "../../assets/Sun"
+import { Posts , Sun ,User,Comments ,Product} from "../../assets"
+
 
 export const Appbar=()=>{
   return(
@@ -17,13 +17,16 @@ export const Appbar=()=>{
 
 
        <li className="flex items-center mb-4">
-       <span><User /></span> 
+       <span><Comments /></span> 
     <span className="ml-2 capitalize"> <Link  to="/comments"> Comments</Link>  </span> </li>
 
 
        <li className="flex items-center mb-4">
-       <span><User /></span> 
+       <span><Posts /></span>
     <span className="ml-2 capitalize"> <Link  to="/posts"> Posts</Link>  </span> </li>
+    <li className="flex items-center mb-4">
+       <span><Product /></span>
+    <span className="ml-2 capitalize"> <Link  to="/products"> Products</Link>  </span> </li>
     
     
 
